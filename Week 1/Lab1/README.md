@@ -22,7 +22,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of command :
-    ![Create a bucket](images/create-bucket.png)
+    ![Create a bucket](Images/create-bucket.png)
 
 3.
 4. I upload a file into the `s3://lab-bucket-poly4/new-folder/flutter` using the below command, this also create a new folder called `new-folder` automatically
@@ -32,7 +32,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of command :
-    ![Create folder and upload object to it](images/upload-object.png)
+    ![Create folder and upload object to it](Images/upload-object.png)
 
 5. I list the objects in my s3 buckets using the below command:
 
@@ -42,7 +42,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of command :
-    ![List objects in a bucket](images/list-objects.PNG)
+    ![List objects in a bucket](Images/list-objects.PNG)
 
 6. I download object from my bucket using the below command
 
@@ -51,7 +51,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of command :
-    ![Download object from a bucket](images/download-object.PNG)
+    ![Download object from a bucket](Images/download-object.PNG)
 
 7. I delete object from my bucket using the below command
 
@@ -66,7 +66,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of both deletion :
-    ![Delete object and bucket](images/delete-object-bucket.PNG)
+    ![Delete object and bucket](Images/delete-object-bucket.PNG)
 
 
 

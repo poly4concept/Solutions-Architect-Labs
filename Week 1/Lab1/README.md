@@ -22,7 +22,7 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
     ```
 
     > Here is output of command :
-    ![Create a bucket](Images/create-bucket.png)
+    ![Create a bucket](Images/create-bucket.PNG)
 
 3.
 4. I upload a file into the `s3://lab-bucket-poly4/new-folder/flutter` using the below command, this also create a new folder called `new-folder` automatically
